@@ -652,6 +652,7 @@ footer p {
     .contact-section {
       padding: 120px;
       max-width: 100%;
+    margin-top: 100px;
     }
   
     .contact-form textarea {
